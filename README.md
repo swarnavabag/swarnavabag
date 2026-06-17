@@ -2,7 +2,7 @@
 
 # Hi, I'm Swarnava Bag 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&size=28&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+and+Intelligent+Systems;Learning+by+Building+Projects;Currently+Working+on+NeuroInsight+AI" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+and+Intelligent+Systems;Learning+by+Building+Projects;Currently+Working+on+NeuroInsight+AI" />
 
 
 </div>
