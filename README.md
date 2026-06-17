@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Sc. Computer Science student at **RKMRC Narendrapur**
+🎓 B.Sc. Computer Science student at **Ramakrishna Mission residential College (Autonomous), Narendrapur**
 
 I am interested in understanding how intelligent systems are built — from data and algorithms to practical software deployment.
 
