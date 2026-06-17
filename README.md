@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**swarnavabag/swarnavabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Swarnava Bag 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&size=28&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+and+Intelligent+Systems;Learning+by+Building+Projects;Currently+Working+on+NeuroInsight+AI" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Sc. Computer Science student at **RKMRC Narendrapur**
+
+I am interested in understanding how intelligent systems are built — from data and algorithms to practical software deployment.
+
+My current areas of interest include:
+
+- Artificial Intelligence / Machine Learning  
+- Signal Processing  
+- Software Engineering  
+- System Design  
+
+I enjoy breaking complex problems into smaller components and thinking deeply about:
+
+- data quality  
+- architecture choices  
+- bottlenecks  
+- tradeoffs  
+- real-world usability  
+
+---
+
+## 🧠 Featured Projects
+
+### NeuroInsight AI
+AI-assisted EEG analysis system for seizure detection and report generation.
+
+**Pipeline:**  
+EDF Upload → Preprocessing → Feature Extraction → XGBoost → Event Detection → AI Report
+
+---
+
+### Curabyte
+AI-powered diet and food inventory management project.
+
+---
+
+### AgriVision
+Smart agriculture assistance platform using AI.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+Python • Java • C • HTML • CSS • SQL
+
+### Libraries / Tools
+NumPy • Pandas • Git
+
+### Currently Learning
+C++ • Machine Learning • System Design
+
+---
+
+## 📈 Current Focus
+
+- Improving **DSA & problem solving**
+- Learning **C++**
+- Studying **Machine Learning fundamentals**
+- Building **NeuroInsight AI**
+- Understanding **system design**
+
+---
+
+## 🌐 Connect With Me 
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/swarnava-bag-24285435b"> <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/swarnavabag"> <img src="https://img.shields.io/badge/GitHub_Profile-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp; <a href="mailto:swarnava.bag@outlook.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+</div>
+
+---
