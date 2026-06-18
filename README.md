@@ -32,26 +32,6 @@ I enjoy breaking complex problems into smaller components and thinking deeply ab
 
 ---
 
-## 🧠 Featured Projects
-
-### NeuroInsight AI
-AI-assisted EEG analysis system for seizure detection and report generation.
-
-**Pipeline:**  
-EDF Upload → Preprocessing → Feature Extraction → XGBoost → Event Detection → AI Report
-
----
-
-### Curabyte
-AI-powered diet and food inventory management project.
-
----
-
-### AgriVision
-Smart agriculture assistance platform using AI.
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -67,8 +47,8 @@ C++ • Machine Learning • System Design
 
 ## 📈 Current Focus
 
-- Improving **DSA & problem solving**
-- Learning **C++**
+- Improving **DSA & problem solving with C++**
+- Learning **JS**
 - Studying **Machine Learning fundamentals**
 - Building **NeuroInsight AI**
 - Understanding **system design**
