@@ -2,7 +2,7 @@
 
 # Hi, I'm Swarnava Bag 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+and+Intelligent+Systems;Learning+by+Building+Projects;Currently+Working+on+NeuroInsight+AI" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI%2FML+Enthusiast;Learning+by+Building+Projects;Building+Intelligent+Systems" />
 
 
 </div>
@@ -11,9 +11,11 @@
 
 ## 🚀 About Me
 
-🎓 B.Sc. Computer Science student at **Ramakrishna Mission residential College (Autonomous), Narendrapur**
+🎓 B.Sc. Computer Science student at **Ramakrishna Mission Residential College (Autonomous), Narendrapur**
 
-I am interested in understanding how intelligent systems are built — from data and algorithms to practical software deployment.
+🚀 Founding Member and Website Development Team Member at **The Club Atlas 0f Code**, the official Computer Science club of RKMRC Narendrapur.
+
+I am interested in understanding how intelligent systems are designed and built—from data and algorithms to scalable software systems.
 
 My current areas of interest include:
 
@@ -35,23 +37,33 @@ I enjoy breaking complex problems into smaller components and thinking deeply ab
 ## 💻 Tech Stack
 
 ### Languages
-Python • Java • C • HTML • CSS • SQL
+Python • Java (Core) • C++ (Basic) • SQL
 
-### Libraries / Tools
-NumPy • Pandas • Git
+### Frontend
+HTML • CSS
+
+### AI / Data
+NumPy • Pandas • Scikit-learn
+
+### Tools
+Git • GitHub • Figma
 
 ### Currently Learning
-C++ • Machine Learning • System Design
+Machine Learning • System Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,git,github,figma,ml" />
+</p>
+<img src="https://shields.io" alt="Machine Learning" />
 
 ---
 
 ## 📈 Current Focus
 
 - Improving **DSA & problem solving with C++**
-- Learning **JS**
 - Studying **Machine Learning fundamentals**
 - Building **NeuroInsight AI**
-- Understanding **system design**
+- Understanding **System Design**
 
 ---
 
