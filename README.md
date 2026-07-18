@@ -54,7 +54,6 @@ Machine Learning • System Design
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,git,github,figma,ml" />
 </p>
-<img src="https://shields.io" alt="Machine Learning" />
 
 ---
 
